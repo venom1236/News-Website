@@ -1,0 +1,6 @@
+everytind key  -   GET https://newsapi.org/v2/everything?q=bitcoin&apiKey=abc13d4b769b40388d7029cdad807239
+
+
+top headlines -  GET https://newsapi.org/v2/top-headlines?country=us&apiKey=abc13d4b769b40388d7029cdad807239
+
+
